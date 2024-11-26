@@ -1,4 +1,7 @@
-Expiring QR Code Generator and Verifier : This Python project demonstrates how to generate QR codes that store encrypted data with an expiration time. The QR code contains encrypted data that is valid only for a specific period, after which it expires. The project uses the cryptography, qrcode, opencv, and pyzbar libraries.
+### Expiring QR Code Generator and Verifier : 
+
+This Python project demonstrates how to generate QR codes that store encrypted data with an expiration time. The QR code contains encrypted data that is valid only for a specific period, after which it expires. The project uses the cryptography, qrcode, opencv, and pyzbar libraries.
+
 ### Features :
 
     1. QR Code Generation: Create QR codes that store encrypted data, with a specified expiration time.
